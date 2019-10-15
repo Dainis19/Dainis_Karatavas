@@ -1,0 +1,34 @@
+
+1.)	Ko es māku:
+Strādāt ar funkcijām
+Definēt 
+Pielietot funckijas if, elif, else
+Veidot kārtīgu un saprotamu kodu
+
+2.)	Ko es nemāku:
+Es vēl neesmu izpratis kā loopot definīcijas un atkārtot funckijas
+
+3.)	Raspberry-pi skripti  
+Uz raspberija ir vieglāk programmēt nekā uz Arduino. Jo ir mazāk jāievēro sintakses, piemēram kols vai semikols. Vienīgais ir jāievēro atstarpes un atkāpes starp funckijām. 
+
+4.)	Funkciju skaidrojums  
+random.randrange – šī ir random metode, no kuras programma izvēlās rondom norādīto intigeri vai tekstu. To pielieto priekš spēlēm.
+
+List – Tā ir direktorija kur tu raksti iekšā vārdus vai priekšmetus, noteiktā secībā
+
+Input – Šī funckija ir svarīga, ja tu taisi apjomīgus kodus, viņa ļauj ievadīt ciparu, tekstu, decimāl skaitli u.c. un pēc tam izprintēt to ārā ar funckiju Print.
+
+STR & INT – Stringi ir teksti kurus var ievietot visās funckijās. Integer ir skaitļi kurus liek iekšā funkcijās. 
+
+Exit() – šī funkcija apzīmē ieziešanu ārā no definīcijas. 
+
+If/else/elif – ja/citādi/savādāk – tos pielieto visās loģiskajās funckijās kur notiks kāda darbība vai programmatūra. 
+
+5.)	Mans izstrādātais kods
+Man kods sanāca strādājošs, bet viņš neatbilst prasībām. Man nesanāca izveidot līmeņus un vārdus no random listes. Vēlējos uztaisīt advancēti ar skaņām, bet jo vairāk sāku programmēt, jo vairāk sāka likties, ka tas būs par grūti. Lai nebūtu liela “”Mērce” izdomāju izveidot 2 Spēlētāju karātavu spēli, kura man izdevās un ir strādājoša.
+
+6.)	Ko varētu uzlabot? 
+Es šajā kodā varētu daudz ko pielikt klāt un uzlabot. Piemēram pielikt klāt mūziku vai jebkādu audio, uztaisīt to ka vārdus programma ņem no random listes kā arī uztaisīt reālākus zīmējumus!
+
+7.)	Novērtējums
+Es šajā projektā, patstāvīgi strādājot ieguldīju visas brīvās dienas, tas ir sestdienas, svētdienas pa šīm nedēļām. Manuprāt es esmu pelnījis 7 balles, jo man ir strādājošas Karātavas ar papildus funkcijām, kas pārbauda vai burts nav izmantots, ir ievadīti vairāk, kā 1 burts, vai ievadītais burts vispār ir vārdā. 
