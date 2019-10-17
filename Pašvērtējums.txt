@@ -4,9 +4,13 @@ Strādāt ar funkcijām
 Definēt 
 Pielietot funckijas if, elif, else
 Veidot kārtīgu un saprotamu kodu
+Ieslēgt Rasperry
+Kontrolēt Raspberry
+Uztaisīt direktoriju un programmēt tajā.
 
 2.)	Ko es nemāku:
 Es vēl neesmu izpratis kā loopot definīcijas un atkārtot funckijas
+Nemāku vēl strādāt ar input ierīcēm pie Rpi
 
 3.)	Raspberry-pi skripti  
 Uz raspberija ir vieglāk programmēt nekā uz Arduino. Jo ir mazāk jāievēro sintakses, piemēram kols vai semikols. Vienīgais ir jāievēro atstarpes un atkāpes starp funckijām. 
